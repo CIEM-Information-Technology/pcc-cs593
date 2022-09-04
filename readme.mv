@@ -7,6 +7,7 @@ Object Oriented Programming (OOPs) using JAVA
 2. wap to print whether a number is prime or not.
 3. wap to print whether a number is palindrome or not.
 4. wap to find the factorial of a given number.
+5. To find out the fibonacci series according the number of times user want.
 
 ## How to Use this Repository
 - each problem is categorically placed inside a folder where it is most suitable, like problem which belongs to OOPs category will be in OOPs folder.
