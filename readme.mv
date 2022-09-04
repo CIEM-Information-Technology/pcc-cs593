@@ -1,0 +1,11 @@
+# PCC-CS593
+Object Oriented Programming (OOPs) using JAVA
+
+## Syllabus
+### Basic Java
+1. wap to print the result of a given number of a multiplication table.
+
+
+## How to Use this Repository
+- each problem is categorically placed inside a folder where it is most suitable, like problem which belongs to OOPs category will be in OOPs folder.
+- driver code(main) is in same program file but in different class.
