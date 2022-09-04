@@ -15,3 +15,7 @@ Object Oriented Programming (OOPs) using JAVA
 
 2. wap to implement overiding fetaures.
 3. create a class "Box" whose constructor is passed with 3 double values which represents length of the sides of the box. compute the volume the volume of the box using 1 method that displays the volume of the box.
+
+## How to Use this Repository
+- each problem is categorically placed inside a folder where it is most suitable, like problem which belongs to OOPs category will be in OOPs folder.
+- driver code(main) is in same program file but in different class.
